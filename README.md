@@ -45,79 +45,79 @@ Fließend
 # Projekte
 ### OBJEKTERKENNUNG – Personal Projekt – Merseburg, DE 
 ### März 2024
-● Entwickelte ein Echtzeit-Objekterkennungssystem unter Verwendung von Python und OpenCV, das Objekte in Videostreams 
+- Entwickelte ein Echtzeit-Objekterkennungssystem unter Verwendung von Python und OpenCV, das Objekte in Videostreams 
 erkennt und klassifiziert
-● Implementierte Computer Vision-Techniken wie Bildverarbeitung und Feature-Extraktion unter Einsatz vortrainierter Modelle 
+- Implementierte Computer Vision-Techniken wie Bildverarbeitung und Feature-Extraktion unter Einsatz vortrainierter Modelle 
 (YOLOv5), um eine hohe Erkennungsgenauigkeit zu gewährleisten
-● Visualisierte die Ergebnisse der Objekterkennung mit Matplotlib und stellte das System erfolgreich für Anwendungen in 
+- Visualisierte die Ergebnisse der Objekterkennung mit Matplotlib und stellte das System erfolgreich für Anwendungen in 
 Überwachung und Robotik berei
 
 ### EMOTIONENERKE NNUNGSSYSTEM – Personal Projekt – Merseburg, DE 
 ### März 2024
-● Entwickelte ein System zur Erkennung von Emotionen in Bildern und Videos mittels Convolutional Neural Networks (CNNs)
-● Sammelte und verarbeitete einen umfangreichen Datensatz von Gesichtsbildern mit verschiedenen emotionalen Ausdrücken zur 
+- Entwickelte ein System zur Erkennung von Emotionen in Bildern und Videos mittels Convolutional Neural Networks (CNNs)
+- Sammelte und verarbeitete einen umfangreichen Datensatz von Gesichtsbildern mit verschiedenen emotionalen Ausdrücken zur 
 Modellierung und Klassifizierung
-● Erstellte und trainierte ein CNN-Modell zur präzisen Klassifizierung von Emotionen, was eine hohe Erkennungsrate ermöglichte
-● Visualisierte die Ergebnisse der Emotionserkennung und optimierte kontinuierlich die Modellgenauigkeit durch iterative 
+- Erstellte und trainierte ein CNN-Modell zur präzisen Klassifizierung von Emotionen, was eine hohe Erkennungsrate ermöglichte
+- Visualisierte die Ergebnisse der Emotionserkennung und optimierte kontinuierlich die Modellgenauigkeit durch iterative 
 Anpassungen
-● Nutze Python, Keras und TensorFlow zur Implementierung und OpenCV zur Bildvorverarbeitung
+- Nutze Python, Keras und TensorFlow zur Implementierung und OpenCV zur Bildvorverarbeitung
 
 ### PFLEGE DIENSTE -APP – Akademische Projekt, Verteile Systeme – HS Merseburg, DE 
 ### Oktober 2023- Januar 2024
-● Zusammenarbeit im Team zur Implementierung und Optimierung der App, um die Anforderungen von Pflegepersonal und 
+- Zusammenarbeit im Team zur Implementierung und Optimierung der App, um die Anforderungen von Pflegepersonal und 
 Patienten bestmöglich zu erfüllen
-● Verantwortlich für die Erstellung von UML-Diagrammen zur Modellierung der Anwendungsarchitektur und Datenflüsse
-● Strukturierte JSON-Daten zur Sicherstellung einer konsistenten und effizienten Datenverwaltung innerhalb der App
+- Verantwortlich für die Erstellung von UML-Diagrammen zur Modellierung der Anwendungsarchitektur und Datenflüsse
+- Strukturierte JSON-Daten zur Sicherstellung einer konsistenten und effizienten Datenverwaltung innerhalb der App
 
 
 ### ÜBERSETZER WEB – Akademische Projekt, Webtechnologien – HS Merseburg, DE 
 ### April 2023- Juli 2023
-● Entwickelte eine Übersetzer-Website unter Verwendung von HTML, CSS und JavaScript, die Echtzeit-Übersetzungsdienste 
+- Entwickelte eine Übersetzer-Website unter Verwendung von HTML, CSS und JavaScript, die Echtzeit-Übersetzungsdienste 
 anbietet
-● Integrierte eine Übersetzer-API, um die Übersetzung von Texten in verschiedene Sprachen nahtlos zu ermöglichen
-● Gestaltete eine intuitive Benutzeroberfläche, die eine benutzerfreundliche und einfache Bedienung der Übersetzungsfunktionen 
+- Integrierte eine Übersetzer-API, um die Übersetzung von Texten in verschiedene Sprachen nahtlos zu ermöglichen
+- Gestaltete eine intuitive Benutzeroberfläche, die eine benutzerfreundliche und einfache Bedienung der Übersetzungsfunktionen 
 gewährleistet
-● Setzte MySQL für die Verwaltung von Benutzerdaten und Übersetzungsanfragen ein, um eine effiziente Datenverarbeitung und 
+- Setzte MySQL für die Verwaltung von Benutzerdaten und Übersetzungsanfragen ein, um eine effiziente Datenverarbeitung und 
 Speicherung zu gewährleisten
 
 ### CHAT APP – Akademische Projekt, Mobile Computing – HS Merseburg, DE 
 ### April 2023- Juli 2023
-● Entwickelte eine Chat-Anwendung mit Flutter, die Echtzeit-Nachrichtenübermittlung ermöglicht und eine reibungslose 
+- Entwickelte eine Chat-Anwendung mit Flutter, die Echtzeit-Nachrichtenübermittlung ermöglicht und eine reibungslose 
 Kommunikation zwischen Benutzern sicherstellt
-● Integrierte Firebase zur sicheren Speicherung und Verwaltung von Benutzerdaten und Nachrichten, um eine zuverlässige 
+- Integrierte Firebase zur sicheren Speicherung und Verwaltung von Benutzerdaten und Nachrichten, um eine zuverlässige 
 Datenpersistenz zu gewährleisten
-● Implementierte Funktionen wie Benutzeranmeldung und Profilverwaltung, um eine personalisierte und sichere 
+- Implementierte Funktionen wie Benutzeranmeldung und Profilverwaltung, um eine personalisierte und sichere 
 Benutzererfahrung zu bieten
-● Gestaltete eine benutzerfreundliche Oberfläche, die eine intuitive Bedienung und eine nahtlose Benutzererfahrung ermöglicht
+- Gestaltete eine benutzerfreundliche Oberfläche, die eine intuitive Bedienung und eine nahtlose Benutzererfahrung ermöglicht
 
 # Erfahrungen
 ### QUALITÄT E VLAUTOR – DE SPARTE – Microsoft, auslagerung Concentrix – Kairo, EG 
 ### Februar 2021 – September 2021
-● Analyse die Geschäftsberichte bsw. die Leistungen der Supporters 
-● Überprüfung und Unterstützung der technischen Fähigkeiten der Supporters 
-● Verbesserung die Softskills und Kommunikationsfähigkeiten der Technichal Supporters
-● Befürwortung und Förderung von Soft Skills
+- Analyse die Geschäftsberichte bsw. die Leistungen der Supporters 
+- Überprüfung und Unterstützung der technischen Fähigkeiten der Supporters 
+- Verbesserung die Softskills und Kommunikationsfähigkeiten der Technichal Supporters
+- Befürwortung und Förderung von Soft Skills
 
 # TECHNISCHE SUPPORT – DE SPARTE – Microsoft, auslagerung Concentrix – Kairo, EG 
 ### Januar 2020 - Februar 2021
-● Unterstützung von Endbenutzern und Administratoren bei der Behebung von Fehlern des Windows-Betriebssystems
-● Unterstützung von Endbenutzern und Administratoren bei der Behebung von MS-Office Fehlern 
-● Breitstellung die Fähigkeit, technische Informationen an nicht-technische Kunden
-● Ursachenanalyse und Problemlösung
-● Fehlerbehebung bei Software- und Hardware-Problemen.
-● Technichal Support Stufe Il
+- Unterstützung von Endbenutzern und Administratoren bei der Behebung von Fehlern des Windows-Betriebssystems
+- Unterstützung von Endbenutzern und Administratoren bei der Behebung von MS-Office Fehlern 
+- Breitstellung die Fähigkeit, technische Informationen an nicht-technische Kunden
+- Ursachenanalyse und Problemlösung
+- Fehlerbehebung bei Software- und Hardware-Problemen.
+- Technichal Support Stufe Il
 
 # KUNDENDIE NST – DE SPARTE – Odigeo, auslagerung Xceed – Kairo, EG 
 ### September 2019 - Januar 2020
-● Ausstellung von Flugtickets mit dem Amadeus-System
-● Versorgung den Kunden die genaue Informationen und die richtigen Lösungen
-● Bearbeitung von Anfragen und Beschwerden der Kunde
+- Ausstellung von Flugtickets mit dem Amadeus-System
+- Versorgung den Kunden die genaue Informationen und die richtigen Lösungen
+- Bearbeitung von Anfragen und Beschwerden der Kunde
 
 # KUNDENDIE NST – DE SPARTE – Vodafone – Kairo, EG 
 ### Dezember 2015 – März 2018
-● Bearbeitung von Anfragen und Beschwerden der Kunden
-● Protokollieren Kundendaten im CRM 
-● Führt andere Aufgaben aus, die vom Management zugewiesen werden
+- Bearbeitung von Anfragen und Beschwerden der Kunden
+- Protokollieren Kundendaten im CRM 
+- Führt andere Aufgaben aus, die vom Management zugewiesen werden
 
 # Bildung
 ### M.EN. AUTOAMTISIERUNGSTECHNIK UND INFORMATIK– Hochschule Merseburg– Merseburg, DE 
