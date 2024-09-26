@@ -43,7 +43,7 @@ Sehr gut
 Fließend
 
 # Projekte
-## OBJE KTERKE NNUNG – Personal Projekt – Merseburg, DE 
+### OBJEKTERKENNUNG – Personal Projekt – Merseburg, DE 
 ### März 2024
 ● Entwickelte ein Echtzeit-Objekterkennungssystem unter Verwendung von Python und OpenCV, das Objekte in Videostreams 
 erkennt und klassifiziert
@@ -52,7 +52,7 @@ erkennt und klassifiziert
 ● Visualisierte die Ergebnisse der Objekterkennung mit Matplotlib und stellte das System erfolgreich für Anwendungen in 
 Überwachung und Robotik berei
 
-## EMOTIONENERKE NNUNGSSYSTEM – Personal Projekt – Merseburg, DE 
+### EMOTIONENERKE NNUNGSSYSTEM – Personal Projekt – Merseburg, DE 
 ### März 2024
 ● Entwickelte ein System zur Erkennung von Emotionen in Bildern und Videos mittels Convolutional Neural Networks (CNNs)
 ● Sammelte und verarbeitete einen umfangreichen Datensatz von Gesichtsbildern mit verschiedenen emotionalen Ausdrücken zur 
@@ -62,7 +62,7 @@ Modellierung und Klassifizierung
 Anpassungen
 ● Nutze Python, Keras und TensorFlow zur Implementierung und OpenCV zur Bildvorverarbeitung
 
-## PFLEGE DIENSTE -APP – Akademische Projekt, Verteile Systeme – HS Merseburg, DE 
+### PFLEGE DIENSTE -APP – Akademische Projekt, Verteile Systeme – HS Merseburg, DE 
 ### Oktober 2023- Januar 2024
 ● Zusammenarbeit im Team zur Implementierung und Optimierung der App, um die Anforderungen von Pflegepersonal und 
 Patienten bestmöglich zu erfüllen
@@ -70,7 +70,7 @@ Patienten bestmöglich zu erfüllen
 ● Strukturierte JSON-Daten zur Sicherstellung einer konsistenten und effizienten Datenverwaltung innerhalb der App
 
 
-## ÜBERSETZER WEB – Akademische Projekt, Webtechnologien – HS Merseburg, DE 
+### ÜBERSETZER WEB – Akademische Projekt, Webtechnologien – HS Merseburg, DE 
 ### April 2023- Juli 2023
 ● Entwickelte eine Übersetzer-Website unter Verwendung von HTML, CSS und JavaScript, die Echtzeit-Übersetzungsdienste 
 anbietet
@@ -80,7 +80,7 @@ gewährleistet
 ● Setzte MySQL für die Verwaltung von Benutzerdaten und Übersetzungsanfragen ein, um eine effiziente Datenverarbeitung und 
 Speicherung zu gewährleisten
 
-## CHAT APP – Akademische Projekt, Mobile Computing – HS Merseburg, DE 
+### CHAT APP – Akademische Projekt, Mobile Computing – HS Merseburg, DE 
 ### April 2023- Juli 2023
 ● Entwickelte eine Chat-Anwendung mit Flutter, die Echtzeit-Nachrichtenübermittlung ermöglicht und eine reibungslose 
 Kommunikation zwischen Benutzern sicherstellt
@@ -91,7 +91,7 @@ Benutzererfahrung zu bieten
 ● Gestaltete eine benutzerfreundliche Oberfläche, die eine intuitive Bedienung und eine nahtlose Benutzererfahrung ermöglicht
 
 # Erfahrungen
-## QUALITÄT E VLAUTOR – DE SPARTE – Microsoft, auslagerung Concentrix – Kairo, EG 
+### QUALITÄT E VLAUTOR – DE SPARTE – Microsoft, auslagerung Concentrix – Kairo, EG 
 ### Februar 2021 – September 2021
 ● Analyse die Geschäftsberichte bsw. die Leistungen der Supporters 
 ● Überprüfung und Unterstützung der technischen Fähigkeiten der Supporters 
@@ -99,7 +99,7 @@ Benutzererfahrung zu bieten
 ● Befürwortung und Förderung von Soft Skills
 
 # TECHNISCHE SUPPORT – DE SPARTE – Microsoft, auslagerung Concentrix – Kairo, EG 
-## Januar 2020 - Februar 2021
+### Januar 2020 - Februar 2021
 ● Unterstützung von Endbenutzern und Administratoren bei der Behebung von Fehlern des Windows-Betriebssystems
 ● Unterstützung von Endbenutzern und Administratoren bei der Behebung von MS-Office Fehlern 
 ● Breitstellung die Fähigkeit, technische Informationen an nicht-technische Kunden
@@ -108,21 +108,21 @@ Benutzererfahrung zu bieten
 ● Technichal Support Stufe Il
 
 # KUNDENDIE NST – DE SPARTE – Odigeo, auslagerung Xceed – Kairo, EG 
-## September 2019 - Januar 2020
+### September 2019 - Januar 2020
 ● Ausstellung von Flugtickets mit dem Amadeus-System
 ● Versorgung den Kunden die genaue Informationen und die richtigen Lösungen
 ● Bearbeitung von Anfragen und Beschwerden der Kunde
 
 # KUNDENDIE NST – DE SPARTE – Vodafone – Kairo, EG 
-## Dezember 2015 – März 2018
+### Dezember 2015 – März 2018
 ● Bearbeitung von Anfragen und Beschwerden der Kunden
 ● Protokollieren Kundendaten im CRM 
 ● Führt andere Aufgaben aus, die vom Management zugewiesen werden
 
 # Bildung
-## M.EN. AUTOAMTISIERUNGSTECHNIK UND INFORMATIK– Hochschule Merseburg– Merseburg, DE 
+### M.EN. AUTOAMTISIERUNGSTECHNIK UND INFORMATIK– Hochschule Merseburg– Merseburg, DE 
 ### April 2023 - Präsens
 #### Majore: Embedd System, Computergestütze Daten Analyse, Simulation, Mobile Computing
-## B.SE . IM M ANAGEMENT INFORM ATIONSSYSTEM S – Future Academy – Kairo, EG 
+### B.SE . IM M ANAGEMENT INFORM ATIONSSYSTEM S – Future Academy – Kairo, EG 
 ### September 2017
 #### Majore: Wirtschaftsstudien, International Business, Datenbanken, Analyse und Desgin der Informationssystem
