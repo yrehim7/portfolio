@@ -32,8 +32,24 @@ Anpassungsfähigkeit
 
 
 # Kenntnisse
+## Sprachen
+### Deutsch
+Sehr gut
+
+### English
+Sehr gut
+
+### Arabisch
+Fließend
 
 # Projekte
+## OBJE KTERKE NNUNG – Personal Projekt – Merseburg, DE ### März 2024
+● Entwickelte ein Echtzeit-Objekterkennungssystem unter Verwendung von Python und OpenCV, das Objekte in Videostreams 
+erkennt und klassifiziert
+● Implementierte Computer Vision-Techniken wie Bildverarbeitung und Feature-Extraktion unter Einsatz vortrainierter Modelle 
+(YOLOv5), um eine hohe Erkennungsgenauigkeit zu gewährleisten
+● Visualisierte die Ergebnisse der Objekterkennung mit Matplotlib und stellte das System erfolgreich für Anwendungen in 
+Überwachung und Robotik berei
 
 # Erfahrungen
 
