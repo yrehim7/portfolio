@@ -7,3 +7,8 @@ my name is Youssef: you can call Joe, an Automation and Informatics M.Eng. stude
 - 🌱 Always learning, growing, and contributing to open-source projects!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrehim7&show_icons=true&theme=radical)
+### Skills
+### Kenntnisse
+## Projekte
+# Erfahrungen
+# Bildung
